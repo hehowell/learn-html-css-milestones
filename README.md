@@ -85,7 +85,7 @@ Here are some more reference-like resources. These might be slightly technical, 
 
 You should be able to...
 
-- [ ] Open this repo on the command line (Bash or Terminal) from within Github Desktop
+- [*] Open this repo on the command line (Bash or Terminal) from within Github Desktop
 - [ ] Use `cd tests` to navigate to the tests directory
 - [ ] Use `ls` to list the contents of a directory
 - [ ] Use `mkdir empty-directory` to create an empty directory
